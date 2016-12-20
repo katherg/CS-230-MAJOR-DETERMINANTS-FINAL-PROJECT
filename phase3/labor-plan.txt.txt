@@ -1,0 +1,4 @@
+﻿We have three main components to our project: 
+1. The create course paths class which creates the graph (a list of each course for each major and links them depending on prerequisites). Hannah will work on this.
+2. The course trajectories class which compares linked lists to the existing graph. It will contain methods that check each major requirement, determine the percentage completed, and get the next courses for each major. Hannah and Xochitl are dividing this class. 
+3. The GUI components which will consist of a main GUI class that creates the frame and three tabbed panes, one for Math, CS, and MAS. We have not determined whether we will need three different classes (one for each major) for this yet; currently we are trying to do it in one main GUI class. It will also use popup dialog to display results (suggestions for course user should take in each major and percentage completed of each major). Katherine will work on this.

@@ -1,0 +1,7 @@
+CS 111: Programming and Problem Solving
+CS 230: Data Structures
+CS 231: Fundamental Algorithms
+CS 235: Languages and Automata
+CS 240: Machine Organization
+CS 251: Programming Languages
+MATH 225: Combinatorics and Graph Theory

@@ -1,0 +1,30 @@
+ARTS 308: Photoraphy III
+ARTS 313: Virtual Form
+ARTS 317: Seminar: Topics in the Visual Arts
+ARTS 321: Advanced New Media
+ARTS 322: Advanced Print Concepts
+ARTS 365: Advanced Video Production
+CS 301: Compiler and Runtime System Design
+CS 304: Databases with Web Interfaces
+CS 307: Computer Graphics
+CS 313: Computational Biology
+CS 315: Data and Text Mining for the Web
+CS 310:  Foundations of Cryptology
+CS 320: Tangible User Interfaces 
+CS 322: (Seminar) Learning and Teaching in a Digital World
+CS 332: Visual Processing
+CS 342: Computer Security
+CS 34901: (Advanced Topics) Distributed Computing
+CS 34902: (Advanced Topics) Machine Learning
+MATH 302: Elements of Analysis I
+MATH 303: Elements of Analysis II
+MATH 305: Abstract Algebra
+MATH 306: Topics in Abstract Algebra
+MATH 307: Topology
+MATH 309: Foundations of Mathematics
+MATH 310: Complex Analysis
+MATH 312: Differential Geometry
+MATH 322: Advanced Linear Algebra
+MATH 325: Graph Theory
+MATH 326: Advanced Combinatorics
+MATH 349: Advanced Selected Topics

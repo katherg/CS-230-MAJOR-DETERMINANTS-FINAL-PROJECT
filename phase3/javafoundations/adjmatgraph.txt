@@ -1,0 +1,43 @@
+Welcome to DrJava.  Working directory is /Users/xochitlsay/Desktop/lab8_xochitlSay
+> run AdjMatGraph
+Number of Vertices: 2
+Number of Arcs: 0
+false
+true
+true
+true
+true
+[b, c]
+[b, c]
+true
+**************
+ARCS
+**************
+i a b c
+a - 1 1 
+b 1 - 1 
+c 1 1 - 
+1
+c
+**************
+ARCS
+**************
+i a c
+a - 1 
+c 1 - 
+false
+**************
+ARCS
+**************
+i a b c d e f g h i
+a - 1 - 1 - 1 1 - - 
+b - - - 1 - 1 - - - 
+c - 1 - - - - - 1 - 
+d 1 - 1 - - - - - - 
+e 1 - - 1 - - - - - 
+f - - - 1 1 - 1 - - 
+g - - - - - 1 - - - 
+h - - - - - - - - 1 
+i - - - 1 - - 1 - - 
+false
+> 

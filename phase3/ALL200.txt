@@ -1,0 +1,30 @@
+ARTS 208: Intermediate Digital Photography
+ARTS 219: Introductory Print Methods: Lithography
+ARTS 220: Introductory Print Methods: Intaglio
+ARTS 221: Digital Imaging
+ARTS 255: Dynamic Interface Design
+ARTS 260: Moving Image Studio
+ARTS 265: Intermediate Video Production
+CS 215: Multimedia Design and Programming
+CS 220: Human-Computer Interaction
+CS 230: Data Structures
+CS 231: Fundamental Algorithms
+CS 232: Artificial Intelligence
+CS 235: Languages and Automata
+CS 240: Machine Organization
+CS 242: Computer Networks
+CS 24902: (Topics) Front-End Web Development
+CS 24901: (Topics) Scientific and Parallel Computing
+CS 251: Programming Languages
+MUS 275: Introduction to Electronic and Computer Music
+MATH 203: Mathematical Tools for Finance
+MATH 205: Multivariable Calculus
+MATH 206: Linear Algebra
+MATH 210: Differential Equations
+MATH 214: Euclidean and Non-Euclidean Geometry
+MATH 215: Mathematics for the Sciences I
+MATH 220: Probability and Elementary Statistics
+MATH 221: Statistical Inference
+MATH 223: Number Theory
+MATH 225: Combinatorics and Graph Theory
+MATH 249: Selected Topics

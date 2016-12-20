@@ -1,0 +1,16 @@
+ARTH 101: History and Analysis of Art
+CAMS 101: Introduction to Cinema and Media Studies
+ARTS 105: Drawing I
+ARTS 108: Photo I
+ARTS 109: Two Dimensional Design
+ARTS 165: Introduction to Video Production
+CS 111: Programming and Problem Solving
+CS 112: Computation for the Sciences 
+CS 114: The Socio-Technological Web
+CS 115: Computing for the Socio-Techno Web
+CS 117: Inventing Mobile Apps
+CS 125: (First Year Seminar) Brains, Minds, and Machines: The Science of Intelligence
+MATH 101: Reasoning with Data: Elementary Applied Statistics
+MATH 115: Calculus I
+MATH 116: Calculus II
+MATH 120: Calculus IIA

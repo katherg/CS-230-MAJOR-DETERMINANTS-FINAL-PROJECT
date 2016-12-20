@@ -1,0 +1,10 @@
+CS 111: Programming and Problem Solving
+CS 215: Multimedia Design and Programming
+CS 220: Human-Computer Interaction
+CS 230: Data Structures
+CS 231: Fundamental Algorithms
+CS 242: Computer Networks
+CS 304: Databases with Web Interfaces
+CS 307: Computer Graphics
+CS 315: Data and Text Mining for the Web
+CS 320: Tangible User Interfaces
